@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+*{box-sizing: border-box}
+body{
+	font-size: 16px; color:#2775BB; margin: 0 ;font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+.menu{
+	width: 100%;background-color: white;height: 70px;text-align:center;line-height: 70px;position: fixed
+}
+.menu a{
+	text-decoration: none; color:#2775BB; font-size: 16px;padding: 30px
+		
+}
+.menu a:hover{
+	color: white;background-color: #2775BB
+}
+.banner{
+	width: 100%;min-height: 200px; padding-top: 75px
+}
+.img-100{
+	width: 100%; height: auto
+}
+.w20{
+	width: 20%; padding: 15px; float: left
+}
+.nd{
+	text-align: center
+}
+.ten{
+	color:#2775BB; font-size: 16px;
+}
+.gia{
+	color: #47BBAE
+}
+.tg{
+	color: #666666
+}
+
+.space{
+	width: 100%; height: 15px;
+}
+.clear{
+	clear: both
+}
+.box{
+	background-color: aquamarine
+}
+.ft{
+	width: 100%;margin: auto
+}
+footer{
+	width: 100%;min-height: 200px;background-color:white;color: #2775BB;clear: both
+}
+.kc{
+	height: 35px
+}
+.w25{
+	width: 33.33%; padding: 15px; float: left
+}
+.container{
+	width: 80%;margin: auto}
+.container2{
+	width: 77.8%;margin: auto}
+.container3{
+	width: 75%;margin: auto
+}
+.kc2{
+	height: 20px
+}
+.img-300{
+	width: 100%;height: 300px
+}
+.nd-footer{
+	padding: 0px
+		
+}
+.text{
+	padding-left: 10px
+}
+main{
+	width: 100%; min-height: 500px
+}
